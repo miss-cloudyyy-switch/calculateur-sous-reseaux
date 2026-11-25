@@ -15,3 +15,4 @@ python calculateur_reseau.py
 - La notation CIDR et les masques de sous-réseau
 - Les adresses réservées par Azure
 - Le module ipaddress de Python
+<img width="853" height="380" alt="image" src="https://github.com/user-attachments/assets/258eee46-d9b9-4670-b602-dd2e4b52ee15" />
